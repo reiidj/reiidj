@@ -11,8 +11,8 @@ Full-stack developer focused on building performant, scalable, and user-centered
 ---
 
 ### Projects
-- Portfolio: https://djemf.vercel.app/  
-- Resume: https://djemf.vercel.app/CV_RIVERA.pdf  
+- [Portfolio](https://djemf.vercel.app/)  
+- [Resume (PDF)](https://djemf.vercel.app/CV_RIVERA.pdf)  
 
 ---
 
